@@ -1,0 +1,60 @@
+> 2300030231_ HARSHITHA GUDURU:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LoginPage</title>
+    <link rel="stylesheet" href="abc.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <div class="one">
+        <nav>
+            <div class="nav-brand">
+             <img src="klulogo3.png" alt="">
+            
+            <h2>KLU ERP</h2>
+        </div>
+        <ul class="nav-list-top">
+            <li class="nav-item">
+                <i class="bx bx-user"></i>
+                <span><a href="astudent.html">Student</a></span>
+           
+            </li>
+            <li class="nav-item">
+                <i class="bx bx-user"></i>
+                <span><a href="afaculty.html">Faculty</a></span>
+            
+            </li>
+            <li class="nav-item">
+                <i class="bx bx-user"></i>
+                <span><a href="acourse.html">Course</a></span>
+            </li>
+            </li>
+            <li class="nav-item">
+                <i class="bx bx-user"></i>
+                <span><a href="atimetable.html">Timetable</a></span>
+            </li>
+            
+            <li class="nav-item">
+                <i class="bx bx-user"></i>
+                <span><a href="feedback.html">Attendance register</a></span>
+                
+       
+          </ul>
+      <ul class="nav-list-bottom"> 
+           <li class="nav-item">
+            <i class="bx bx-user"></i>
+                <span><a href="contact.html">Clubs</a></span>
+            </li>
+            <li class="nav-item">
+                <i class="bx bx-user"></i>
+                <span><a href="About.html">Hostel Management</a></span>
+            </li>
+        </ul>
+</nav>        
+</div>
+</body>
+
